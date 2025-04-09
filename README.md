@@ -1,14 +1,19 @@
-=== FP Table Comments ===
-Contributors: FunkPd
-Tags: plugin management, comments, organization
-Requires at least: 5.0
-Tested up to: 6.3
-Requires PHP: 7.4
-Stable tag: 1.2
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+=== FP Table Comments ===  
+Contributors: FunkPd  
+Tags: plugin management, comments, organization  
+Requires at least: 5.0  
+Tested up to: 6.3  
+Requires PHP: 7.4  
+Stable tag: 1.2  
+License: GPLv3  
+License URI: https://www.gnu.org/licenses/gpl-3.0.html  
 
 Add comments to your WordPress plugins table for better management and organization.  
+
+![WordPress plugins table screenshot](https://github.com/gmfunk9/fp-table-comments/blob/main/screenshot.png)
+
+The screenshot shows the WordPress plugins table with an added comments column where users can add notes directly in the interface. Color-coded outlines provide instant feedback on save status - orange while typing, green when successfully saved, and red if there's an error.
+
 
 == Description ==  
 **FP Table Comments** lets you add personal notes to the plugins table in WordPress. It's perfect for keeping track of plugin purposes, updates, or any custom reminders you need.  
